@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2><%= "EC2 INSTANCE CREATED" %></h2>
+<h2><%= "Hello World!" %></h2>
 </body>
 </html>
